@@ -1,0 +1,22 @@
+{
+  "name": "rtl-tailwindcss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soheilhassanjani/rtl-tailwindcss.git"
+  },
+  "author": "soheil hassanjani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soheilhassanjani/rtl-tailwindcss/issues"
+  },
+  "homepage": "https://github.com/soheilhassanjani/rtl-tailwindcss#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.2"
+  }
+}
